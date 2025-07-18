@@ -21,12 +21,12 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("../assets/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
     text-align: center;
-    margin: 0 10em;
+    margin: 0 2em;
 }
 
 .container {
